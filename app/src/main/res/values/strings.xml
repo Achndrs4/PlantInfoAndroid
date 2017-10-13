@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">PlantMe</string>
+    <string-array name="plant_names">
+        <item>Example:Abies Amabilis</item>
+    </string-array>
+
+    <string-array name="att_names">
+        <item>Min inches precip</item>
+        <item>Max inches precip</item>
+        <item>Shade tolerance</item>
+        <item>Common Name</item>
+        <item>States Found</item>
+        <item>Duration</item>
+        <item>Growth</item>
+        <item>Min Soil pH</item>
+        <item>Max Soil pH</item>
+
+    </string-array>
+
+
+</resources>
